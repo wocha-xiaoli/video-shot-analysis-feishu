@@ -1,0 +1,8 @@
+interface:
+  display_name: "视频拉片到飞书"
+  short_description: "拆解视频镜头并写入飞书 Base"
+  brand_color: "#2563EB"
+  default_prompt: "使用 $video-shot-analysis-feishu 逐镜头分析这个视频，并把拉片结果上传到飞书 Base。"
+
+policy:
+  allow_implicit_invocation: true
