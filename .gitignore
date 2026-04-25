@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+lapian_output/
+*.mp4
+*.mov
+*.m4v
+*.avi
+*.mkv
